@@ -2,7 +2,7 @@
 
 #### Tableau Public Website
 
-https://us-west-2b.online.tableau.com/#/site/kayr/workbooks/250727?:origin=card_share_link
+https://public.tableau.com/profile/kay.royo#!/vizhome/citibike_analytics/NYCBIKEANALYSIS
 
 https://us-west-2b.online.tableau.com/#/site/kayr/workbooks/250727?:origin=card_share_link
 
