@@ -1,7 +1,9 @@
 # NYC Bike Analytics During Covid-19 Lockdwon
 
 #### Tableau Public Website
+
 https://us-west-2b.online.tableau.com/#/site/kayr/workbooks/250727?:origin=card_share_link
+
 https://us-west-2b.online.tableau.com/#/site/kayr/workbooks/250727?:origin=card_share_link
 
 ## Background
