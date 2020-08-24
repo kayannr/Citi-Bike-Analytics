@@ -57,7 +57,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 * VI: Distance Analysis
 ![Dashboard_8](Figures/Dashboards/DISTANCE_ANALYSIS.png)
->   * 1. Bike ID 37088 has the highest total distance traveled. 
+>   * 1. Bike ID 37088 has the highest total  distance traveled. 
 >   * 2. The total distance traveled is highest at age 50 followed by age 30. 
 >   * 3. Subscribers have higher distance traveled than costumers for both male and female. 
 
