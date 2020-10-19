@@ -50,7 +50,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 * V: Trip Duration Analysis
 ![Dashboard_7](Figures/Dashboards/TRIP_DURATION_ANALYSIS.png)
 >   * 1. May and June generally have higher trip duration than March and April. 
->   * 2. The highest trip duration recorded during the lockdown was on the 13th of June. 
+>   * 2. The highest trip duration recorded during the Covid-19 lockdown was on the 13th of June. 
 >   * 3. The average trip duration appears to increase from the beginning until the end of March. 
 >   * 4. There average trip duration for the month of June generally decreased. 
 >   * 5. There average trip duration for all 4 months appear very unsteady. 
