@@ -34,7 +34,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 >   * 2. The peak at age 111 for average trip duration can be determined as erroneous. 
 >   * 3. There are more costumers than subscribers at age 50. 
 >   * 4. There are more subscribers than costumers at age 30. 
->   * 5. There number of subscribers and costumers is the same for ages older than 50. 
+>   * 5. There number of subscribers and costumers is roughly the same for ages older than 50. 
 
 * IV: Gender Analysis
 ![Dashboard_5](Figures/Dashboards/GENDER_ANALYSIS_I.png)
