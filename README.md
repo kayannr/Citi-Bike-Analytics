@@ -39,8 +39,8 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 * IV: Gender Analysis
 ![Dashboard_5](Figures/Dashboards/GENDER_ANALYSIS_I.png)
 >   * 1. Male has the highest trip duration for all 4 months during the lockdown.  
->   * 2. The trip duration of females and unknown slightly increased from March to June. 
->   * 3. The lowest trip duration for all gender is April while the highest is June. 
+>   * 2. The trip duration of females and unknown slightly increased from March to June and slightly decreased for males. 
+>   * 3. The lowest trip duration for all gender is during the monht of April while the highest is during the month of June. 
 
 ![Dashboard_6](Figures/Dashboards/GENDER_ANALYSIS_II.png)
 >   * 1. The most popular start and stop time for all gender is 5:00 pm (17:00)
