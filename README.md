@@ -7,7 +7,7 @@ https://public.tableau.com/profile/kay.royo#!/vizhome/citibike_analytics/NYCBIKE
 https://us-west-2b.online.tableau.com/#/site/kayr/workbooks/250727?:origin=card_share_link
 
 ## Background
-Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage. Downloaded data includes March, April, May, and June 2020 data.
+Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage. The downloaded dataset includes the recorded data for March, April, May, and June 2020.
 
 ## Data Analysis and Findings
 * I: Stations Analysis
