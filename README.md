@@ -24,9 +24,9 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 * II: Bike Analysis
 ![Dashboard_3](Figures/Dashboards/BIKEANALYSIS.png)
->   * 1. The most popular bike has more than 1,000 number of records. 
->   * 2. Bike ID 30627 has the highest trip duration. 
->   * 3. Bike ID 36552 has the highest number of records. 
+>   * 1. The most popular bike has more than 1,000 number of records from March-June 2020. 
+>   * 2. Bike ID 30627 has the highest trip duration based on the March-June 2020 data. 
+>   * 3. Bike ID 36552 has the highest number of records (March-June 2020). 
 
 * III: Age Analysis
 ![Dashboard_4](Figures/Dashboards/AGE_ANALYSIS.png)
