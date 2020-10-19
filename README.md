@@ -30,8 +30,8 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 * III: Age Analysis
 ![Dashboard_4](Figures/Dashboards/AGE_ANALYSIS.png)
->   * 1. The highest trip duration is at 51. 
->   * 2. The peak at age 111 for average trip duration could be erroneous. 
+>   * 1. The highest trip duration during the 4-month Covid-19 lockdown is at age 51. 
+>   * 2. The peak at age 111 for average trip duration can be determined as erroneous. 
 >   * 3. There are more costumers than subscribers at age 50. 
 >   * 4. There are more subscribers than costumers at age 30. 
 >   * 5. There number of subscribers and costumers is the same for ages older than 50. 
