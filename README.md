@@ -53,7 +53,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 >   * 2. The highest trip duration recorded during the Covid-19 lockdown was on the 13th of June. 
 >   * 3. The average trip duration appears to increase from the beginning until the end of March. 
 >   * 4. There average trip duration for the month of June generally decreased. 
->   * 5. There average trip duration for all 4 months appear very unsteady. 
+>   * 5. There average trip duration for all 4 months appear highly unsteady. 
 >   * 6. There highest average trip duration occur at the beginning of May and June. 
 
 * VI: Distance Analysis
