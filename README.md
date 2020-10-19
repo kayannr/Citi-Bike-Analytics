@@ -10,14 +10,14 @@ https://us-west-2b.online.tableau.com/#/site/kayr/workbooks/250727?:origin=card_
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage. The downloaded dataset includes the recorded data for March, April, May, and June 2020.
 
 ## Data Analysis and Findings
-* I: Stations Analysis
+* I: Station Analysis
 ![Dashboard_1](Figures/Dashboards/STATIONS_ANALYSIS_I.png)
 >   The maps show the locations of the start and end stations. The size of the markers is determined by the number of records for each station. 
 >   * 1. The comparison between two maps reveals that the end stations are slightly more scattered than the start stations.
 >   * 2. There are more records for start stations during the first two months (March and April) of the Covid-19 lockdown than May and June.
 >   * 3. During the last two months of the lockdown (May and June), the start stations' number of records are lower and higher for some of the end stations than previous months. 
 >   * 4. The most popular start and end stations are located in the central part of the city. 
->   * 5. There is no significant correlation between population and the number of records for each station. 
+>   * 5. There is no significant correlation between population and the number of records for each station during the Covid-19 lockdown. 
 ![Dashboard_2](Figures/Dashboards/STATIONSANALYSISII.png)
 >   * 1. The top 10 most popular stations remain the same for both start and end. 
 >   * 2. The most popular station (12 Ave & W 40 St)  has over 30,000 number of records
