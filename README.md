@@ -45,7 +45,7 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 ![Dashboard_6](Figures/Dashboards/GENDER_ANALYSIS_II.png)
 >   * 1. The most popular start and stop time for all gender is 5:00 pm (17:00)
->   * 2. The highest average trip duration for females was in the month of April at age 100-110. 
+>   * 2. The highest average trip duration for females was in the month of April at age 100-110, which can be determined as erroneous. 
 
 * V: Trip Duration Analysis
 ![Dashboard_7](Figures/Dashboards/TRIP_DURATION_ANALYSIS.png)
