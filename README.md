@@ -1,4 +1,4 @@
-# NYC Bike Analytics During Covid-19 Lockdwon
+# NYC Bike Analytics During Covid-19 Lockdown
 
 #### Tableau Public Website
 
